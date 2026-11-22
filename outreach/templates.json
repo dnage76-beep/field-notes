@@ -1,0 +1,11 @@
+{
+  "linkedin_connect": [
+    {"id": "li_c1", "text": "Hi {first}, I'm a {school} {major} student looking for {term} roles in {field}. I'd value connecting with someone whose work at {company} I admire."}
+  ],
+  "email_cold": [
+    {"id": "em1", "text": "Hi {first},\n\nI'm a {major} student at {school} looking for {term} roles in {field}. {why_them}. Would you be open to a short call, or could you point me to the right person?\n\nBest,\n{name}"}
+  ],
+  "followup": [
+    {"id": "fu1", "text": "Hi {first}, just following up on my note. I'd still love to learn about {term} opportunities at {company}. Thanks again!"}
+  ]
+}

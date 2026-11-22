@@ -1,0 +1,7 @@
+{
+  "daily_caps": {"linkedin_connect": 20, "linkedin_message": 15, "email": 15},
+  "weekly_caps": {"linkedin_connect": 80},
+  "followup_after_days": 7,
+  "max_followups": 1,
+  "stop_words_in_page": ["limit", "restricted", "unusual activity", "temporarily", "spam"]
+}
